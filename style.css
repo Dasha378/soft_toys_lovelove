@@ -1,0 +1,64 @@
+header{
+
+    background-color: rgb(179, 196, 241);
+}
+
+
+ header img{
+    width: 120px;
+    height: 120px;
+}
+.toys{
+display: flex;
+justify-content: space-around;
+
+
+}
+h1{
+
+    text-align: center;
+}
+.description{
+
+float:left;
+    width: 350px;
+    
+}
+main img{
+    display: flex;
+
+width:100px ;
+height: 100px;
+}
+body{
+background-color: rgb(108, 229, 245);
+
+}
+h2{
+color:rgb(25, 0, 255);
+    text-align: center;
+}
+ul{
+color:rgba(0, 110, 255, 0.884);
+    font-size:25px ;
+}
+
+
+footer{
+
+    padding: 35px;
+    background-color:rgb(179, 196, 241) ;
+}
+footer p{
+text-align: center;
+
+
+}
+footer img{
+    
+width: 35px;
+    height: 35px;
+    
+   
+
+}
